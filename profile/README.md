@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="../assets/Welcome to AISA.png" width="900">
+  <img src="../assets/Welcome to AISA.png" width="1000">
 </p>
+
+
 
 # AISA
 ### Artificial Intelligence Scholars Association
