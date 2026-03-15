@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/Welcome to AISA.png" width="900">
+</p>
+
 # AISA
 ### Artificial Intelligence Scholars Association
 
