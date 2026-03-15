@@ -3,7 +3,6 @@
 
 AISA is a student-led association dedicated to building practical AI projects, exploring research papers, and creating a collaborative learning environment for students.
 
----
 
 ## What we do
 
@@ -12,7 +11,6 @@ AISA is a student-led association dedicated to building practical AI projects, e
 - Develop a **public portfolio of technical work**
 - Prepare members for **hackathons, research, and internships**
 
----
 
 ## Focus Areas
 
@@ -22,7 +20,6 @@ AISA is a student-led association dedicated to building practical AI projects, e
 - Computer Vision
 - Applied AI research
 
----
 
 ## Structure
 
@@ -34,7 +31,6 @@ Each project typically includes:
 - experimental results
 - a short technical explanation
 
----
 
 ## Repositories
 
@@ -43,9 +39,3 @@ Here you will find:
 - project repositories
 - paper reproductions
 - internal guidelines
-
----
-
-## AISA
-
-Artificial Intelligence Scholars Association
